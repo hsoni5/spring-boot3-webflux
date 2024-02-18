@@ -1,0 +1,27 @@
+# PostgreSQL connection properties
+spring:
+  security:
+    user:
+      name: julius
+      password: secret
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/file-upload
+    username: postgres
+    password: root123
+    pool:
+      enabled: true
+      max-size: 5
+    logging.category: org.springframework.data.r2dbc
+    logging.enabled: true
+
+
+video:
+  location: uploads
+
+logging:
+  level:
+     io:
+       r2dbc.postgresql.QUERY: DEBUG
+       r2dbc.postgresql.PARAM: DEBUG
+
+

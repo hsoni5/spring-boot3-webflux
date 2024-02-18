@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../choreography-saga/delivery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/my-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/my-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../choreography-saga/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/acount-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/audit-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/eureka-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot-3-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot3-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-boot3-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-upload-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filedb-upload-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video-streaming-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
